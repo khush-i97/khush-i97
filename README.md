@@ -13,7 +13,7 @@ Data Engineer | Analytics Engineer | Building reliable data systems & grounded A
 ### 🚀 About Me
 
 - 🎓 MS Data Science, Analytics & Engineering at **Arizona State University**
-- 💼 Recently working as a Data Engineer Internship at **Sigmoid Analytics** — reduced manual reporting by 50% and improved data reliability by 25%
+- 💼 Recently working as a Data Engineer Internship at **Sigmoid Analytics**
 - 🔧 Passionate about building **production-grade data pipelines**, **semantic layers**, and **grounded AI systems** (RAG / GraphRAG)
 - 🧠 Currently deep-diving into reliable LLM applications, evaluation frameworks, and real-time streaming architectures
 - 🌱 Always looking to collaborate on interesting data engineering + AI projects
